@@ -37,6 +37,7 @@ To install the **avoleo** theme, follow these steps:
 
 1. Download the `avoleo.zsh-theme` file to your computer.
    ```
+   git clone https://github.com/flameleo11/avoleo-zsh-theme.git
    git clone https://gitee.com/flameleo11/avoleo-zsh-theme.git
    ```
 2. Move the file to the `~/.oh-my-zsh/themes` directory (if you're using [Oh My Zsh](https://ohmyz.sh/)).
